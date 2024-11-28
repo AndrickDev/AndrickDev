@@ -52,7 +52,7 @@ I'm passionate about technology, data, and problem-solving. My expertise lies in
 ### 📈 My Goals  
 ✔️ Master Django and FastAPI for scalable web development.  
 ✔️ Build real-world projects in **Data Science** and **Machine Learning**.  
-✔️ I pretend learn also in **Javascript** too.
+✔️ I pretend learn also in **Golang** too.
 
 ---
 
