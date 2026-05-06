@@ -15,7 +15,7 @@ Engenheiro Full Stack com foco em backend, dados e IA. Construo sistemas end-to-
 
 Atualmente em P&D na UniFio (otimização de redes elétricas) e desenvolvendo o **Teseo**, um SaaS de escrita acadêmica com IA, onde cuido de toda a stack: Next.js no frontend, FastAPI no backend, pgvector + RAG para o pipeline de IA.
 
-Aberto a oportunidades de estágio/trainee em backend, dados ou fullstack.
+Aberto a oportunidades de júnior/trainee em backend, dados ou fullstack.
 
 ---
 
