@@ -38,6 +38,7 @@ Aberto a oportunidades de júnior/trainee em backend, dados ou fullstack.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Node](https://img.shields.io/badge/Node-092E20?style=flat&logo=node&logoColor=black)
 
 **Frontend**
 
