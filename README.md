@@ -133,7 +133,6 @@ Sistema end-to-end com modelagem de banco conforme regras de negócio, backend J
 - AWS Cloud Foundations
 - AWS Cloud Security Foundations
 - AWS Database Offerings & DynamoDB
-- Python — 100 Days of Code (Udemy)
 
 ---
 
