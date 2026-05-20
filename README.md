@@ -140,4 +140,3 @@ Sistema end-to-end com modelagem de banco conforme regras de negócio, backend J
 
 Português nativo · Inglês B2 (leitura e escrita avançadas)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AndrickDev&show_icons=true&theme=dark&hide_border=true)
