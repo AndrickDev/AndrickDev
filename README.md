@@ -4,7 +4,7 @@
 
 Ourinhos, SP. Atuo com dados e TI no Colégio Santo Antônio e fui bolsista de Iniciação Científica na UniFio (otimização de sistemas elétricos). Estou focado em vagas de dados e IA (analista, cientista e engenharia de dados) e em desenvolvimento júnior.
 
-[Portfólio](https://andrick-dev-portfolio.vercel.app/pt) · [LinkedIn](https://linkedin.com/in/andrick-rodrigues) · [E-mail](mailto:andrickneer@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f46c9?style=flat-square&logo=vercel&logoColor=white)](https://andrick-dev-portfolio.vercel.app/pt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f46c9?style=flat-square)](https://linkedin.com/in/andrick-rodrigues) [![E-mail](https://img.shields.io/badge/E--mail-1f46c9?style=flat-square&logo=gmail&logoColor=white)](mailto:andrickneer@gmail.com)
 
 ```
   ~ ~~  ~  ~~~   ~    ~~  ~~~  ~    ~~   ~  ~~
@@ -39,10 +39,10 @@ Roteiro público de projetos que ainda vou fazer, cada um só entra aqui depois 
 
 | Área | Ferramentas |
 |---|---|
-| Ciência de dados | Python, Pandas, NumPy, Scikit-learn, LightGBM, OptBinning, SciPy, SHAP |
-| Dados e BI | SQL, MySQL, PostgreSQL, Power BI, Excel |
-| IA aplicada | RAG, FastAPI, APIs de modelos de linguagem (Claude, GPT, Gemini), assistentes de código |
-| Desenvolvimento | TypeScript, Java, Kotlin, Git, GitHub Actions, Docker, Linux |
+| Ciência de dados | ![Python](https://img.shields.io/badge/Python-1f46c9?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1f46c9?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1f46c9?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1f46c9?style=flat-square&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-1f46c9?style=flat-square) ![OptBinning](https://img.shields.io/badge/OptBinning-1f46c9?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-1f46c9?style=flat-square&logo=scipy&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-1f46c9?style=flat-square) |
+| Dados e BI | ![SQL](https://img.shields.io/badge/SQL-1f46c9?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-1f46c9?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f46c9?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-1f46c9?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-1f46c9?style=flat-square) |
+| IA aplicada | ![RAG](https://img.shields.io/badge/RAG-1f46c9?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-1f46c9?style=flat-square&logo=fastapi&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-1f46c9?style=flat-square&logo=anthropic&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-1f46c9?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-1f46c9?style=flat-square&logo=googlegemini&logoColor=white) ![Assistentes de código](https://img.shields.io/badge/Assistentes%20de%20c%C3%B3digo-1f46c9?style=flat-square) |
+| Desenvolvimento | ![TypeScript](https://img.shields.io/badge/TypeScript-1f46c9?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-1f46c9?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-1f46c9?style=flat-square&logo=kotlin&logoColor=white) ![Git](https://img.shields.io/badge/Git-1f46c9?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f46c9?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1f46c9?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-1f46c9?style=flat-square&logo=linux&logoColor=white) |
 
 Cada habilidade do portfólio aponta para o projeto que a sustenta. O que não tenho prova aparece como "sem prova aqui".
 
