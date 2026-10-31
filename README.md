@@ -1,80 +1,51 @@
 # Andrick Rodrigues
 
-Dados e Inteligência Artificial | Python e SQL | Risco de Crédito
+**Software e dados com prova, não promessa.** Crio sistemas web e de dados do começo ao fim: do banco à tela, com testes e no ar.
 
-Ourinhos, SP. Atuo com dados e suporte de TI no Colégio Santo Antônio e desenvolvo projetos em ciência de dados, engenharia de software e aplicações com modelos de linguagem. Estou focado em vagas de dados e IA (analista, cientista e engenharia de dados) e desenvolvimento júnior.
+Ourinhos, SP. Atuo com dados e TI no Colégio Santo Antônio e fui bolsista de Iniciação Científica na UniFio (otimização de sistemas elétricos). Estou focado em vagas de dados e IA (analista, cientista e engenharia de dados) e em desenvolvimento júnior.
 
-- LinkedIn: [linkedin.com/in/andrick-rodrigues](https://linkedin.com/in/andrick-rodrigues)
-- E-mail: andrickneer@gmail.com
+[Portfólio](https://andrick-dev-portfolio.vercel.app/pt) · [LinkedIn](https://linkedin.com/in/andrick-rodrigues) · [E-mail](mailto:andrickneer@gmail.com)
 
----
+```
+  ~ ~~  ~  ~~~   ~    ~~  ~~~  ~    ~~   ~  ~~
+ ~~~  ~~   ~~  ><(((º>   ~~   ~    ~~~  ~~   ~
+~   ~   ~~     ~   ~~~    ~~  ~ ~    ~    ~~~  ~
+```
 
-## Projetos selecionados
+O portfólio é uma descida: rolar vira profundidade, com animais em ASCII, um chat que responde sobre os projetos com fontes e um filtro que mostra onde tenho prova para a sua vaga e onde não tenho.
 
-### Previsão de inadimplência (case Datarisk)
+## Projetos
 
-Modelo de probabilidade de inadimplência em dados de cobrança, com validação voltada a risco de crédito. A auditoria do modelo inicial identificou vazamento por identificador de cliente (AUC de 0,93 para 0,82 ao removê-lo). A validação foi reestruturada por grupo de cliente (AUC 0,80) e out-of-time por safra (AUC 0,90), com análise de calibração, drift (PSI e KS), SHAP e API de escoragem.
-
-Python, Pandas, Scikit-learn, LightGBM, OptBinning, SHAP, FastAPI, pytest.
-
-[Repositório](https://github.com/AndrickDev/case-datarisk)
-
-### Teseo: plataforma de escrita acadêmica
-
-SaaS com frontend em Next.js e serviço de IA em FastAPI. Busca semântica e RAG integrado ao chat com pgvector e Gemini, controle de cota com Redis, pagamentos com Stripe, integração com OpenAlex, CI no GitHub Actions e deploy em Vercel e Fly.io.
-
-Next.js, React, TypeScript, FastAPI, PostgreSQL, pgvector, Prisma, Redis, Stripe.
-
-[Repositório](https://github.com/AndrickDev/tcc-assist)
-
-### Nebula: aplicativo desktop de tela, voz e chat
-
-Aplicativo Electron com compartilhamento de tela e voz por WebRTC, servidor de sinalização e relay com coturn em VPS e comandos de voz com modelos de linguagem. Desenvolvido por mim com apoio de IA generativa.
-
-Electron, WebRTC, WebSocket, coturn, Node.js.
-
-[Repositório](https://github.com/MateusMunhoz/AmostradinhoScreenShare)
-
-### OurinhosPlay: reservas de quadras esportivas
-
-Aplicativo Android com Kotlin e Jetpack Compose, backend em Supabase com políticas de acesso por linha (RLS) e restrição de conflito de horários no banco de dados.
-
-Kotlin, Jetpack Compose, Supabase, PostgreSQL.
-
-[Repositório](https://github.com/AndrickDev/OurinhosPlay)
-
-### TrackPet: localização de animais perdidos (TCC)
-
-Localização em tempo real entre tutor e quem encontrou o animal, com mensageria assíncrona para notificações. Backend com arquitetura hexagonal e DDD.
-
-Java, Spring Boot, Angular, RabbitMQ, MySQL.
-
-### FPO Automation: iniciação científica na UniFio
-
-Migração de uma formulação de Fluxo de Potência Ótimo de MATLAB (498 linhas) para Python (296 linhas, redução de 40%), com geração automática dos modelos validada no sistema IEEE 14 barras.
-
-Python, Pyomo, SciPy, Pandas, NumPy, MySQL.
-
----
+| Projeto | Em uma frase | Prova | Tecnologias |
+|---|---|---|---|
+| [**Case Datarisk**](https://github.com/AndrickDev/case-datarisk) | Probabilidade de inadimplência de clientes empresa | Achei e removi um vazamento por identificador de cliente: o AUC de 0,93 caiu para 0,82 e o modelo passou a ser validado por grupo e por período. 30 testes | Python, Pandas, scikit-learn, LightGBM, SHAP, FastAPI, pytest |
+| [**Teseo**](https://github.com/AndrickDev/tcc-assist) | Plataforma para escrever o TCC com IA e normas ABNT | No ar. 215 commits meus. Busca semântica (pgvector) com citações, cota por plano, pagamentos, CI no GitHub Actions | Next.js, React, FastAPI, PostgreSQL + pgvector, Redis, Prisma, Stripe |
+| [**Nebula**](https://github.com/MateusMunhoz/Nebula) | Voz e transmissão de tela para jogar em grupo | Equipe de três; sou o idealizador e fiz interface, temas, conta com Google, painel de administração, testes, releases e a operação do servidor de retransmissão. A sinalização WebRTC e a verificação em dois fatores são de Mateus e Cristian | Electron, WebRTC, Node.js |
+| [**Chamada Fio**](https://github.com/AndrickDev/acadly-fio) | Chamada de presença por proximidade, sem GPS | **Protótipo**, solo, 13 commits. 10 regras antifraude e 26 testes; o Bluetooth real ainda é simulado | Android, servidor e banco de dados |
+| [**OurinhosPlay**](https://github.com/AndrickDev/OurinhosPlay) | App Android para marcar jogos amadores em Ourinhos | Solo, 25 commits. O banco impede dois horários iguais na mesma quadra mesmo com dois toques ao mesmo tempo. Ainda sem testes automatizados | Kotlin, Jetpack Compose, Supabase, PostgreSQL |
+| [**IC_PY**](https://github.com/AndrickDev/IC_PY) | Fluxo de Potência Ótimo Reativo em Python (IEEE 14, 30 e 57 barras) | Resultados com erro de 0,1% a 0,2% sobre a referência. Migração de MATLAB (498 linhas) para Python (296) | Python, SciPy, NumPy, pandas |
+| **TrackPet** (TCC) | API de rastreamento de pets com coleira de QR Code | Arquitetura hexagonal; meu papel foi orquestrar: arquitetura, documentação e validação (a maior parte do código é de Gabriel Messias) | Java 17, Spring Boot, MySQL, Flyway, Docker |
 
 ## Experiência
 
-- **Auxiliar de Sistemas, suporte de TI e dados.** Colégio Santo Antônio, desde março de 2025. Suporte a diversos setores, rotinas e relatórios em Excel, mais de 3 painéis em Power BI com consultas SQL e tratamento de dados, e uso de IA generativa em materiais de marketing.
-- **Bolsista de Iniciação Científica, dados e otimização.** UniFio, agosto de 2024 a agosto de 2026.
+- **Colégio Santo Antônio**, desde março de 2025. Estruturo bases de dados e consultas SQL que alimentam painéis em Power BI com indicadores escolares para a gestão; suporte a setores e rotinas em Excel.
+- **Iniciação Científica na UniFio**, agosto de 2024 a agosto de 2026. Otimização em Sistemas Elétricos.
+
+## Em construção
+
+Roteiro público de projetos que ainda vou fazer, cada um só entra aqui depois de existir com código e testes: servidor MCP do portfólio, RAG com avaliação publicada, modelo de CI/CD, orquestração de agentes com métricas e arquitetura orientada a eventos.
 
 ## Competências
 
-- **Ciência de dados:** Python, Pandas, NumPy, Scikit-learn, LightGBM, OptBinning, SciPy, estatística.
-- **Dados e BI:** SQL, MySQL, PostgreSQL, Microsoft Excel, Power BI.
-- **IA aplicada:** RAG, FastAPI, APIs de modelos de linguagem (Claude, GPT, Gemini), assistentes de código.
-- **Desenvolvimento e infraestrutura:** Git, GitHub Actions, Docker, Linux, Java, TypeScript, Kotlin.
+| Área | Ferramentas |
+|---|---|
+| Ciência de dados | Python, Pandas, NumPy, Scikit-learn, LightGBM, OptBinning, SciPy, SHAP |
+| Dados e BI | SQL, MySQL, PostgreSQL, Power BI, Excel |
+| IA aplicada | RAG, FastAPI, APIs de modelos de linguagem (Claude, GPT, Gemini), assistentes de código |
+| Desenvolvimento | TypeScript, Java, Kotlin, Git, GitHub Actions, Docker, Linux |
 
-## Certificações
+Cada habilidade do portfólio aponta para o projeto que a sustenta. O que não tenho prova aparece como "sem prova aqui".
 
-- AWS Cloud Foundations
-- AWS Cloud Security Foundations
-- AWS Database Offerings and DynamoDB
+## Certificações e idiomas
 
-## Idiomas
-
-Português nativo. Inglês B2.
+AWS Cloud Foundations · AWS Cloud Security Foundations · AWS Database Offerings and DynamoDB. Português nativo, inglês B2.
