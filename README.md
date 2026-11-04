@@ -27,10 +27,23 @@ arquiteturas de dados escaláveis, pipelines RAG e implementação determinísti
 ### Stack Tecnológica & Ferramentas
 
 **Modelos de Linguagem & Plataformas**
-- OpenAI (GPT-4o), Anthropic (Claude), Google Gemini, DeepSeek, Perplexity AI.
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Perplexity_AI-20B2AA?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" />
+</p>
 
-**Engenharia de IA & Recuperação da Informação**
-- LangChain, LangGraph, Model Context Protocol (MCP), RAG (Retrieval-Augmented Generation) com pgvector, Function Calling / Tool Use, Testes de Avaliação (Evals).
+**Engenharia de IA, RAG & Agentes**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-333333?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG_Híbrido-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="RAG pgvector" />
+  <img src="https://img.shields.io/badge/Function_Calling-Tool_Use-2ea44f?style=flat-square" alt="Function Calling" />
+  <img src="https://img.shields.io/badge/LLM_Evals-Avaliação-555555?style=flat-square" alt="Evals" />
+</p>
 
 **Linguagens & Back-end**
 <p align="left">
@@ -45,8 +58,17 @@ arquiteturas de dados escaláveis, pipelines RAG e implementação determinísti
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" alt="PostgreSQL, MySQL, SQLite, Redis" />
   </a>
 </p>
-
-- Power BI, DAX, scikit-learn, LightGBM, SHAP, OptBinning (Scorecard WOE), SciPy, Pyomo, SymPy.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-EAA300?style=flat-square" alt="DAX" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LightGBM-28A745?style=flat-square" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/SHAP-Explainable_AI-6C5CE7?style=flat-square" alt="SHAP" />
+  <img src="https://img.shields.io/badge/OptBinning-Scorecard_WOE-4B0082?style=flat-square" alt="OptBinning" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Pyomo-Otimização-00599C?style=flat-square" alt="Pyomo" />
+  <img src="https://img.shields.io/badge/SymPy-Computação_Simbólica-3B5526?style=flat-square&logo=sympy&logoColor=white" alt="SymPy" />
+</p>
 
 **Front-end & Aplicações**
 <p align="left">
@@ -67,9 +89,9 @@ arquiteturas de dados escaláveis, pipelines RAG e implementação determinísti
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,notion" alt="VS Code, Postman, Notion" />
   </a>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
 </p>
-
-- GitHub Copilot, Trello.
 
 ---
 
